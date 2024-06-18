@@ -1,5 +1,6 @@
 public class Agi {
     public void count(){
-        System.out.println(32);
+        int age = 32;
+        System.out.println(age);
     }
 }

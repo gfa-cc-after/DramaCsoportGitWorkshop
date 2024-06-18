@@ -1,5 +1,5 @@
 public class Andris {
-    public void greet() {
-        System.out.println("Hello, Bandi!");
+    public void greet(String text) {
+        System.out.println(text);
     }
 }

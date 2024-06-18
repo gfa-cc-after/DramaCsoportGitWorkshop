@@ -1,5 +1,5 @@
 public class DorasFuture {
-    public static void future() {
-        System.out.println("Kos");
+    public static void future(String myHoroscope) {
+        System.out.println(myHoroscope);
     }
 }
