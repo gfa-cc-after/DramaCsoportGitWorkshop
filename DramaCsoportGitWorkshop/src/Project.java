@@ -1,5 +1,5 @@
 public class Project {
-    public void project() {
-        System.out.println("Project specialization");
+    public void project(String specialization) {
+        System.out.println(specialization);
     }
 }
