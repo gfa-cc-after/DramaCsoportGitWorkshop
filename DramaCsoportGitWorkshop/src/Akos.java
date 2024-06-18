@@ -1,5 +1,5 @@
 public class Akos {
-    public static void cheer(String teamName) {
-        System.out.println(teamName);
+    public static void cheer() {
+        System.out.println("Drama Team!");
     }
 }
