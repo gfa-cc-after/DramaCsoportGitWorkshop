@@ -1,6 +1,6 @@
 public class DorasFuture {
 
-    public static void future(String myHoroscope, String myName) {
-        System.out.println(myName + "; " + myHoroscope);
+    public static void future(String parameter) {
+        System.out.println("Your future looks like " + parameter);
     }
 }
