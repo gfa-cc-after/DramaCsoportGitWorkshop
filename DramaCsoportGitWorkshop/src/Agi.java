@@ -1,6 +1,7 @@
 public class Agi {
     public void count(){
-        int month = 7;
-        System.out.println(month);
+        String text = "My age is: ";
+        int year = 32;
+        System.out.println(text + year);
     }
 }
